@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "326993105587",
+    "project_id": "login-authentication-ae207",
+    "storage_bucket": "login-authentication-ae207.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326993105587:android:904843238049a25aba56c6",
+        "android_client_info": {
+          "package_name": "com.joy.loginauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326993105587-qkrltsjhdvg3r83kqllndpbc5ugfo6kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDClJrr3MBQjiZ_jai0L6bPigE3jKTG0C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326993105587-qkrltsjhdvg3r83kqllndpbc5ugfo6kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

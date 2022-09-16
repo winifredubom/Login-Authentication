@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "163777571866",
+    "project_id": "herewegoagain-3a342",
+    "storage_bucket": "herewegoagain-3a342.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163777571866:android:efefe6c8b0ae242368b5a3",
+        "android_client_info": {
+          "package_name": "com.joy.herewegoagain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163777571866-snjms3u53h8q207k73iq74g0v11opq2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKrP8M93ir0fMmJSL4dJYeWfIHJB0LCy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163777571866-snjms3u53h8q207k73iq74g0v11opq2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
